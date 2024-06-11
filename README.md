@@ -1,3 +1,5 @@
+![image](https://github.com/Aryan285git/data-fetch-app/assets/82735272/22ffa8a4-f21a-4a66-8c69-a3b57cf385bc)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
